@@ -11,7 +11,7 @@
 
 **`~/triharta $ whoami`**
 
-*Network Engineer · Full-stack Developer · NOC Specialist*
+*Network Opration Center | DevOps | WebDev*
 
 [![Profile Views](https://komarev.com/ghpvc/?username=triharta&color=21b573&style=flat-square&label=profile+views)](https://github.com/triharta)
 [![GitHub followers](https://img.shields.io/github/followers/triharta?color=21b573&style=flat-square&logo=github)](https://github.com/triharta?tab=followers)
@@ -118,17 +118,9 @@ A clean and simple **financial notes** application for personal expense tracking
 
 ---
 
-## 📈 Contribution Activity
+## 📈 Activity
 
-> **146 contributions** in the last year — consistently building and improving!
-
-```
-May 2026 — 28 commits across 3 repositories:
-  iwansusilopurnomo/HealingForEveryone  ████████████████░░░  18 commits
-  triharta/Cacti-docker                 ████████░░░░░░░░░░░   9 commits
-  triharta/dnsdeb                       █░░░░░░░░░░░░░░░░░░   1 commit
-```
-
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=triharta&theme=github-compact&hide_border=true&color=21b573&line=21b573&point=21b573)
 ---
 
 <div align="center">
